@@ -39,11 +39,12 @@ main image {
 }*/
 
 main {
+    width: 90vw;
+    height: 80vh;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 12em;
-    margin-bottom: 20em;
+    flex-direction: column;    
+    justify-content:center;
+    justify-items: center;
 }
 
 main .bloc-central {
